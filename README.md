@@ -1,9 +1,6 @@
-Shiny App for eNose
-This app allows users to interact with trained eNose models for sample classification and analysis through an intuitive web interface.
+Repository supporting the publication on deploying and maintaining eNose models through a Shiny app. This app allows users to interact with trained eNose models for sample classification and analysis through an intuitive web interface.
 
 Installation
-Clone the repository
-
-Open app.R in RStudio
-
-Run shiny::runApp() in the R console
+1. Clone the repository
+2. Open app.R in RStudio
+3. Run shiny::runApp() in the R console
