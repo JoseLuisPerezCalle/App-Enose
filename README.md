@@ -9,7 +9,7 @@ Installation
 This application follows a scheduled maintenance plan:
 - Version updates: Anual releases
 - Model retraining: Triggered when either:
-  1. >100 new samples available
+  1. 100 or more new samples are available
   2. Accuracy drops below 90%
 
 ## How to Report Issues
